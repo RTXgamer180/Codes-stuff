@@ -80,6 +80,106 @@
     "path": "amethyst_leggings.png"
   },
   {
+    "name": "Banana Dust Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_axe.png",
+    "path": "banana_dust_axe.png"
+  },
+  {
+    "name": "Banana Dust Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_body.png",
+    "path": "banana_dust_body.png"
+  },
+  {
+    "name": "Banana Dust Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_boots.png",
+    "path": "banana_dust_boots.png"
+  },
+  {
+    "name": "Banana Dust Dust",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_dust.png",
+    "path": "banana_dust_dust.png"
+  },
+  {
+    "name": "Banana Dust Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_head.png",
+    "path": "banana_dust_head.png"
+  },
+  {
+    "name": "Banana Dust Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_hoe.png",
+    "path": "banana_dust_hoe.png"
+  },
+  {
+    "name": "Banana Dust Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_leggings.png",
+    "path": "banana_dust_leggings.png"
+  },
+  {
+    "name": "Banana Dust Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_pickaxe.png",
+    "path": "banana_dust_pickaxe.png"
+  },
+  {
+    "name": "Banana Dust Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_shovel.png",
+    "path": "banana_dust_shovel.png"
+  },
+  {
+    "name": "Banana Dust Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_sword.png",
+    "path": "banana_dust_sword.png"
+  },
+  {
+    "name": "Banana Item",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_item.png",
+    "path": "banana_item.png"
+  },
+  {
+    "name": "Banana Oak Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_boat.png",
+    "path": "banana_oak_boat.png"
+  },
+  {
+    "name": "Banana Oak Chest Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_chest_boat.png",
+    "path": "banana_oak_chest_boat.png"
+  },
+  {
+    "name": "Banana Oak Door Item",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_door_item.png",
+    "path": "banana_oak_door_item.png"
+  },
+  {
+    "name": "Banana Oak Hanging Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_hanging_sign.png",
+    "path": "banana_oak_hanging_sign.png"
+  },
+  {
+    "name": "Banana Oak Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_sign.png",
+    "path": "banana_oak_sign.png"
+  },
+  {
+    "name": "Banana Suit Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_suit_body.png",
+    "path": "banana_suit_body.png"
+  },
+  {
+    "name": "Banana Suit Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_suit_boots.png",
+    "path": "banana_suit_boots.png"
+  },
+  {
+    "name": "Banana Suit Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_suit_head.png",
+    "path": "banana_suit_head.png"
+  },
+  {
+    "name": "Banana Suit Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_suit_leggings.png",
+    "path": "banana_suit_leggings.png"
+  },
+  {
     "name": "Black Axe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_axe.png",
     "path": "black_axe.png"
@@ -225,6 +325,56 @@
     "path": "black_wood_trapdoor.png"
   },
   {
+    "name": "Blood Ingot Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_axe.png",
+    "path": "blood_ingot_axe.png"
+  },
+  {
+    "name": "Blood Ingot Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_body.png",
+    "path": "blood_ingot_body.png"
+  },
+  {
+    "name": "Blood Ingot Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_boots.png",
+    "path": "blood_ingot_boots.png"
+  },
+  {
+    "name": "Blood Ingot Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_head.png",
+    "path": "blood_ingot_head.png"
+  },
+  {
+    "name": "Blood Ingot Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_hoe.png",
+    "path": "blood_ingot_hoe.png"
+  },
+  {
+    "name": "Blood Ingot Ingot",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_ingot.png",
+    "path": "blood_ingot_ingot.png"
+  },
+  {
+    "name": "Blood Ingot Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_leggings.png",
+    "path": "blood_ingot_leggings.png"
+  },
+  {
+    "name": "Blood Ingot Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_pickaxe.png",
+    "path": "blood_ingot_pickaxe.png"
+  },
+  {
+    "name": "Blood Ingot Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_shovel.png",
+    "path": "blood_ingot_shovel.png"
+  },
+  {
+    "name": "Blood Ingot Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_sword.png",
+    "path": "blood_ingot_sword.png"
+  },
+  {
     "name": "Dirt Armor Body",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_armor_body.png",
     "path": "dirt_armor_body.png"
@@ -263,6 +413,31 @@
     "name": "Dirt Leggings",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_leggings.png",
     "path": "dirt_leggings.png"
+  },
+  {
+    "name": "Ender Wood Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_boat.png",
+    "path": "ender_wood_boat.png"
+  },
+  {
+    "name": "Ender Wood Chest Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_chest_boat.png",
+    "path": "ender_wood_chest_boat.png"
+  },
+  {
+    "name": "Ender Wood Door Item",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_door_item.png",
+    "path": "ender_wood_door_item.png"
+  },
+  {
+    "name": "Ender Wood Hanging Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_hanging_sign.png",
+    "path": "ender_wood_hanging_sign.png"
+  },
+  {
+    "name": "Ender Wood Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_sign.png",
+    "path": "ender_wood_sign.png"
   },
   {
     "name": "Endium Axe",
@@ -448,6 +623,26 @@
     "name": "Master Gem Item Texture",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/master_gem_item_texture.png",
     "path": "master_gem_item_texture.png"
+  },
+  {
+    "name": "Nithorite Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_axe.png",
+    "path": "nithorite_axe.png"
+  },
+  {
+    "name": "Nithorite Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_body.png",
+    "path": "nithorite_body.png"
+  },
+  {
+    "name": "Nithorite Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_boots.png",
+    "path": "nithorite_boots.png"
+  },
+  {
+    "name": "Nithorite Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_head.png",
+    "path": "nithorite_head.png"
   },
   {
     "name": "Redote Axe",
