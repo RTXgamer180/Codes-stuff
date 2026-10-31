@@ -102,7 +102,7 @@ jobs:
           <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>Codes Cool Mod - Item Gallery</title>
+            <title>Codes Stuff - Texture Gallery</title>
             <style>
               * {{ box-sizing: border-box; }}
               body {{
