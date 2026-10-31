@@ -174,7 +174,7 @@ jobs:
             </main>
 
             <footer>
-              Generated automatically from the Codes Cool Mod repository.
+              Generated automatically from the Codes Stuff Mod.
             </footer>
 
             <script>
@@ -200,7 +200,7 @@ jobs:
 
           Path("item-gallery.html").write_text(html, encoding="utf-8")
 
-          print(f"Generated gallery with {len(items)} items.")
+          print(f"Generated gallery with {len(items)} textures.")
           PY
 
       - name: Commit Generated Files
