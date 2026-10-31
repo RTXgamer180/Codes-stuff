@@ -645,6 +645,36 @@
     "path": "nithorite_head.png"
   },
   {
+    "name": "Nithorite Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_hoe.png",
+    "path": "nithorite_hoe.png"
+  },
+  {
+    "name": "Nithorite Ingot",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_ingot.png",
+    "path": "nithorite_ingot.png"
+  },
+  {
+    "name": "Nithorite Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_leggings.png",
+    "path": "nithorite_leggings.png"
+  },
+  {
+    "name": "Nithorite Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_pickaxe.png",
+    "path": "nithorite_pickaxe.png"
+  },
+  {
+    "name": "Nithorite Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_shovel.png",
+    "path": "nithorite_shovel.png"
+  },
+  {
+    "name": "Nithorite Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_sword.png",
+    "path": "nithorite_sword.png"
+  },
+  {
     "name": "Redote Axe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_axe.png",
     "path": "redote_axe.png"
@@ -705,6 +735,56 @@
     "path": "redote_sword.png"
   },
   {
+    "name": "Skidorite Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_axe.png",
+    "path": "skidorite_axe.png"
+  },
+  {
+    "name": "Skidorite Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_body.png",
+    "path": "skidorite_body.png"
+  },
+  {
+    "name": "Skidorite Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_boots.png",
+    "path": "skidorite_boots.png"
+  },
+  {
+    "name": "Skidorite Dust",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_dust.png",
+    "path": "skidorite_dust.png"
+  },
+  {
+    "name": "Skidorite Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_head.png",
+    "path": "skidorite_head.png"
+  },
+  {
+    "name": "Skidorite Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_hoe.png",
+    "path": "skidorite_hoe.png"
+  },
+  {
+    "name": "Skidorite Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_leggings.png",
+    "path": "skidorite_leggings.png"
+  },
+  {
+    "name": "Skidorite Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_pickaxe.png",
+    "path": "skidorite_pickaxe.png"
+  },
+  {
+    "name": "Skidorite Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_shovel.png",
+    "path": "skidorite_shovel.png"
+  },
+  {
+    "name": "Skidorite Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_sword.png",
+    "path": "skidorite_sword.png"
+  },
+  {
     "name": "Stripped Black Wood Log",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_black_wood_log.png",
     "path": "stripped_black_wood_log.png"
@@ -738,6 +818,56 @@
     "name": "Suphite Ore Block",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/suphite_ore_block.png",
     "path": "suphite_ore_block.png"
+  },
+  {
+    "name": "Sylziia Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_axe.png",
+    "path": "sylziia_axe.png"
+  },
+  {
+    "name": "Sylziia Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_body.png",
+    "path": "sylziia_body.png"
+  },
+  {
+    "name": "Sylziia Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_boots.png",
+    "path": "sylziia_boots.png"
+  },
+  {
+    "name": "Sylziia Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_head.png",
+    "path": "sylziia_head.png"
+  },
+  {
+    "name": "Sylziia Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_hoe.png",
+    "path": "sylziia_hoe.png"
+  },
+  {
+    "name": "Sylziia Ingot",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_ingot.png",
+    "path": "sylziia_ingot.png"
+  },
+  {
+    "name": "Sylziia Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_leggings.png",
+    "path": "sylziia_leggings.png"
+  },
+  {
+    "name": "Sylziia Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_pickaxe.png",
+    "path": "sylziia_pickaxe.png"
+  },
+  {
+    "name": "Sylziia Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_shovel.png",
+    "path": "sylziia_shovel.png"
+  },
+  {
+    "name": "Sylziia Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_sword.png",
+    "path": "sylziia_sword.png"
   },
   {
     "name": "Uranium Axe",
@@ -858,6 +988,26 @@
     "name": "Void Gem Sword",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_sword.png",
     "path": "void_gem_sword.png"
+  },
+  {
+    "name": "War Armor Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/war_armor_body.png",
+    "path": "war_armor_body.png"
+  },
+  {
+    "name": "War Armor Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/war_armor_boots.png",
+    "path": "war_armor_boots.png"
+  },
+  {
+    "name": "War Armor Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/war_armor_head.png",
+    "path": "war_armor_head.png"
+  },
+  {
+    "name": "War Armor Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/war_armor_leggings.png",
+    "path": "war_armor_leggings.png"
   },
   {
     "name": "Water",
