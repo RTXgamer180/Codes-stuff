@@ -710,6 +710,41 @@
     "path": "greenote_sword.png"
   },
   {
+    "name": "Indigo Wendigo Gem",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem.png",
+    "path": "indigo_wendigo_gem.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_axe.png",
+    "path": "indigo_wendigo_gem_axe.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_body.png",
+    "path": "indigo_wendigo_gem_body.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_boots.png",
+    "path": "indigo_wendigo_gem_boots.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_head.png",
+    "path": "indigo_wendigo_gem_head.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_hoe.png",
+    "path": "indigo_wendigo_gem_hoe.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_leggings.png",
+    "path": "indigo_wendigo_gem_leggings.png"
+  },
+  {
     "name": "Indigo Wendigo Gem Ore",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_ore.png",
     "path": "indigo_wendigo_gem_ore.png"
@@ -720,9 +755,59 @@
     "path": "indigo_wendigo_gem_ore_block.png"
   },
   {
+    "name": "Indigo Wendigo Gem Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_pickaxe.png",
+    "path": "indigo_wendigo_gem_pickaxe.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_shovel.png",
+    "path": "indigo_wendigo_gem_shovel.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_sword.png",
+    "path": "indigo_wendigo_gem_sword.png"
+  },
+  {
     "name": "Master Gem Item Texture",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/master_gem_item_texture.png",
     "path": "master_gem_item_texture.png"
+  },
+  {
+    "name": "Meat Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_axe.png",
+    "path": "meat_axe.png"
+  },
+  {
+    "name": "Meat Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_body.png",
+    "path": "meat_body.png"
+  },
+  {
+    "name": "Meat Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_boots.png",
+    "path": "meat_boots.png"
+  },
+  {
+    "name": "Meat Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_head.png",
+    "path": "meat_head.png"
+  },
+  {
+    "name": "Meat Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_hoe.png",
+    "path": "meat_hoe.png"
+  },
+  {
+    "name": "Meat Ingot",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_ingot.png",
+    "path": "meat_ingot.png"
+  },
+  {
+    "name": "Meat Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_leggings.png",
+    "path": "meat_leggings.png"
   },
   {
     "name": "Meat Ore",
@@ -733,6 +818,21 @@
     "name": "Meat Ore Block",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_ore_block.png",
     "path": "meat_ore_block.png"
+  },
+  {
+    "name": "Meat Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_pickaxe.png",
+    "path": "meat_pickaxe.png"
+  },
+  {
+    "name": "Meat Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_shovel.png",
+    "path": "meat_shovel.png"
+  },
+  {
+    "name": "Meat Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_sword.png",
+    "path": "meat_sword.png"
   },
   {
     "name": "Nithorite Axe",
