@@ -1,0 +1,647 @@
+[
+  {
+    "name": "Adite Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_axe.png",
+    "path": "adite_axe.png"
+  },
+  {
+    "name": "Adite Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_body.png",
+    "path": "adite_body.png"
+  },
+  {
+    "name": "Adite Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_boots.png",
+    "path": "adite_boots.png"
+  },
+  {
+    "name": "Adite Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_head.png",
+    "path": "adite_head.png"
+  },
+  {
+    "name": "Adite Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_hoe.png",
+    "path": "adite_hoe.png"
+  },
+  {
+    "name": "Adite Ingot",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_ingot.png",
+    "path": "adite_ingot.png"
+  },
+  {
+    "name": "Adite Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_leggings.png",
+    "path": "adite_leggings.png"
+  },
+  {
+    "name": "Adite Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_pickaxe.png",
+    "path": "adite_pickaxe.png"
+  },
+  {
+    "name": "Adite Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_shovel.png",
+    "path": "adite_shovel.png"
+  },
+  {
+    "name": "Adite Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_sword.png",
+    "path": "adite_sword.png"
+  },
+  {
+    "name": "Amethyst Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/amethyst_body.png",
+    "path": "amethyst_body.png"
+  },
+  {
+    "name": "Amethyst Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/amethyst_boots.png",
+    "path": "amethyst_boots.png"
+  },
+  {
+    "name": "Amethyst Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/amethyst_head.png",
+    "path": "amethyst_head.png"
+  },
+  {
+    "name": "Amethyst Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/amethyst_leggings.png",
+    "path": "amethyst_leggings.png"
+  },
+  {
+    "name": "Black Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_axe.png",
+    "path": "black_axe.png"
+  },
+  {
+    "name": "Black Gem",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem.png",
+    "path": "black_gem.png"
+  },
+  {
+    "name": "Black Gem Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_axe.png",
+    "path": "black_gem_axe.png"
+  },
+  {
+    "name": "Black Gem Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_body.png",
+    "path": "black_gem_body.png"
+  },
+  {
+    "name": "Black Gem Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_boots.png",
+    "path": "black_gem_boots.png"
+  },
+  {
+    "name": "Black Gem Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_head.png",
+    "path": "black_gem_head.png"
+  },
+  {
+    "name": "Black Gem Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_hoe.png",
+    "path": "black_gem_hoe.png"
+  },
+  {
+    "name": "Black Gem Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_leggings.png",
+    "path": "black_gem_leggings.png"
+  },
+  {
+    "name": "Black Gem Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_pickaxe.png",
+    "path": "black_gem_pickaxe.png"
+  },
+  {
+    "name": "Black Gem Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_shovel.png",
+    "path": "black_gem_shovel.png"
+  },
+  {
+    "name": "Black Gem Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_sword.png",
+    "path": "black_gem_sword.png"
+  },
+  {
+    "name": "Black Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_hoe.png",
+    "path": "black_hoe.png"
+  },
+  {
+    "name": "Black Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_pickaxe.png",
+    "path": "black_pickaxe.png"
+  },
+  {
+    "name": "Black Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_shovel.png",
+    "path": "black_shovel.png"
+  },
+  {
+    "name": "Black Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_sword.png",
+    "path": "black_sword.png"
+  },
+  {
+    "name": "Black Wood Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_boat.png",
+    "path": "black_wood_boat.png"
+  },
+  {
+    "name": "Black Wood Chest Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_chest_boat.png",
+    "path": "black_wood_chest_boat.png"
+  },
+  {
+    "name": "Black Wood Door Item",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_door_item.png",
+    "path": "black_wood_door_item.png"
+  },
+  {
+    "name": "Black Wood Hanging Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_hanging_sign.png",
+    "path": "black_wood_hanging_sign.png"
+  },
+  {
+    "name": "Black Wood Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_sign.png",
+    "path": "black_wood_sign.png"
+  },
+  {
+    "name": "Dirt Armor Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_armor_body.png",
+    "path": "dirt_armor_body.png"
+  },
+  {
+    "name": "Dirt Armor Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_armor_boots.png",
+    "path": "dirt_armor_boots.png"
+  },
+  {
+    "name": "Dirt Armor Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_armor_head.png",
+    "path": "dirt_armor_head.png"
+  },
+  {
+    "name": "Dirt Armor Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_armor_leggings.png",
+    "path": "dirt_armor_leggings.png"
+  },
+  {
+    "name": "Dirt Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_body.png",
+    "path": "dirt_body.png"
+  },
+  {
+    "name": "Dirt Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_boots.png",
+    "path": "dirt_boots.png"
+  },
+  {
+    "name": "Dirt Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_head.png",
+    "path": "dirt_head.png"
+  },
+  {
+    "name": "Dirt Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/dirt_leggings.png",
+    "path": "dirt_leggings.png"
+  },
+  {
+    "name": "Endium Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_axe.png",
+    "path": "endium_axe.png"
+  },
+  {
+    "name": "Endium Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_body.png",
+    "path": "endium_body.png"
+  },
+  {
+    "name": "Endium Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_boots.png",
+    "path": "endium_boots.png"
+  },
+  {
+    "name": "Endium Dust",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_dust.png",
+    "path": "endium_dust.png"
+  },
+  {
+    "name": "Endium Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_head.png",
+    "path": "endium_head.png"
+  },
+  {
+    "name": "Endium Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_hoe.png",
+    "path": "endium_hoe.png"
+  },
+  {
+    "name": "Endium Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_leggings.png",
+    "path": "endium_leggings.png"
+  },
+  {
+    "name": "Endium Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_pickaxe.png",
+    "path": "endium_pickaxe.png"
+  },
+  {
+    "name": "Endium Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_shovel.png",
+    "path": "endium_shovel.png"
+  },
+  {
+    "name": "Endium Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_sword.png",
+    "path": "endium_sword.png"
+  },
+  {
+    "name": "Fire Gem",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem.png",
+    "path": "fire_gem.png"
+  },
+  {
+    "name": "Fire Gem Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_axe.png",
+    "path": "fire_gem_axe.png"
+  },
+  {
+    "name": "Fire Gem Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_body.png",
+    "path": "fire_gem_body.png"
+  },
+  {
+    "name": "Fire Gem Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_boots.png",
+    "path": "fire_gem_boots.png"
+  },
+  {
+    "name": "Fire Gem Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_head.png",
+    "path": "fire_gem_head.png"
+  },
+  {
+    "name": "Fire Gem Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_hoe.png",
+    "path": "fire_gem_hoe.png"
+  },
+  {
+    "name": "Fire Gem Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_leggings.png",
+    "path": "fire_gem_leggings.png"
+  },
+  {
+    "name": "Fire Gem Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_pickaxe.png",
+    "path": "fire_gem_pickaxe.png"
+  },
+  {
+    "name": "Fire Gem Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_shovel.png",
+    "path": "fire_gem_shovel.png"
+  },
+  {
+    "name": "Fire Gem Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_sword.png",
+    "path": "fire_gem_sword.png"
+  },
+  {
+    "name": "Greenote",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote.png",
+    "path": "greenote.png"
+  },
+  {
+    "name": "Greenote Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_axe.png",
+    "path": "greenote_axe.png"
+  },
+  {
+    "name": "Greenote Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_body.png",
+    "path": "greenote_body.png"
+  },
+  {
+    "name": "Greenote Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_boots.png",
+    "path": "greenote_boots.png"
+  },
+  {
+    "name": "Greenote Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_head.png",
+    "path": "greenote_head.png"
+  },
+  {
+    "name": "Greenote Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_hoe.png",
+    "path": "greenote_hoe.png"
+  },
+  {
+    "name": "Greenote Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_leggings.png",
+    "path": "greenote_leggings.png"
+  },
+  {
+    "name": "Greenote Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_pickaxe.png",
+    "path": "greenote_pickaxe.png"
+  },
+  {
+    "name": "Greenote Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_shovel.png",
+    "path": "greenote_shovel.png"
+  },
+  {
+    "name": "Greenote Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_sword.png",
+    "path": "greenote_sword.png"
+  },
+  {
+    "name": "Master Gem Item Texture",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/master_gem_item_texture.png",
+    "path": "master_gem_item_texture.png"
+  },
+  {
+    "name": "Redote Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_axe.png",
+    "path": "redote_axe.png"
+  },
+  {
+    "name": "Redote Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_body.png",
+    "path": "redote_body.png"
+  },
+  {
+    "name": "Redote Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_boots.png",
+    "path": "redote_boots.png"
+  },
+  {
+    "name": "Redote Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_head.png",
+    "path": "redote_head.png"
+  },
+  {
+    "name": "Redote Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_hoe.png",
+    "path": "redote_hoe.png"
+  },
+  {
+    "name": "Redote Ingot",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_ingot.png",
+    "path": "redote_ingot.png"
+  },
+  {
+    "name": "Redote Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_leggings.png",
+    "path": "redote_leggings.png"
+  },
+  {
+    "name": "Redote Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_pickaxe.png",
+    "path": "redote_pickaxe.png"
+  },
+  {
+    "name": "Redote Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_shovel.png",
+    "path": "redote_shovel.png"
+  },
+  {
+    "name": "Redote Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_sword.png",
+    "path": "redote_sword.png"
+  },
+  {
+    "name": "Suphite Dust",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/suphite_dust.png",
+    "path": "suphite_dust.png"
+  },
+  {
+    "name": "Uranium Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_axe.png",
+    "path": "uranium_axe.png"
+  },
+  {
+    "name": "Uranium Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_body.png",
+    "path": "uranium_body.png"
+  },
+  {
+    "name": "Uranium Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_boots.png",
+    "path": "uranium_boots.png"
+  },
+  {
+    "name": "Uranium Dust",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_dust.png",
+    "path": "uranium_dust.png"
+  },
+  {
+    "name": "Uranium Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_head.png",
+    "path": "uranium_head.png"
+  },
+  {
+    "name": "Uranium Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_hoe.png",
+    "path": "uranium_hoe.png"
+  },
+  {
+    "name": "Uranium Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_leggings.png",
+    "path": "uranium_leggings.png"
+  },
+  {
+    "name": "Uranium Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_pickaxe.png",
+    "path": "uranium_pickaxe.png"
+  },
+  {
+    "name": "Uranium Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_shovel.png",
+    "path": "uranium_shovel.png"
+  },
+  {
+    "name": "Uranium Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_sword.png",
+    "path": "uranium_sword.png"
+  },
+  {
+    "name": "Void Gem",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem.png",
+    "path": "void_gem.png"
+  },
+  {
+    "name": "Void Gem Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_axe.png",
+    "path": "void_gem_axe.png"
+  },
+  {
+    "name": "Void Gem Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_body.png",
+    "path": "void_gem_body.png"
+  },
+  {
+    "name": "Void Gem Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_boots.png",
+    "path": "void_gem_boots.png"
+  },
+  {
+    "name": "Void Gem Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_head.png",
+    "path": "void_gem_head.png"
+  },
+  {
+    "name": "Void Gem Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_hoe.png",
+    "path": "void_gem_hoe.png"
+  },
+  {
+    "name": "Void Gem Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_leggings.png",
+    "path": "void_gem_leggings.png"
+  },
+  {
+    "name": "Void Gem Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_pickaxe.png",
+    "path": "void_gem_pickaxe.png"
+  },
+  {
+    "name": "Void Gem Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_shovel.png",
+    "path": "void_gem_shovel.png"
+  },
+  {
+    "name": "Void Gem Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_sword.png",
+    "path": "void_gem_sword.png"
+  },
+  {
+    "name": "Water",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water.png",
+    "path": "water.png"
+  },
+  {
+    "name": "Water Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_axe.png",
+    "path": "water_axe.png"
+  },
+  {
+    "name": "Water Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_body.png",
+    "path": "water_body.png"
+  },
+  {
+    "name": "Water Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_boots.png",
+    "path": "water_boots.png"
+  },
+  {
+    "name": "Water Gem",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem.png",
+    "path": "water_gem.png"
+  },
+  {
+    "name": "Water Gem Axe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_axe.png",
+    "path": "water_gem_axe.png"
+  },
+  {
+    "name": "Water Gem Body",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_body.png",
+    "path": "water_gem_body.png"
+  },
+  {
+    "name": "Water Gem Boots",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_boots.png",
+    "path": "water_gem_boots.png"
+  },
+  {
+    "name": "Water Gem Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_head.png",
+    "path": "water_gem_head.png"
+  },
+  {
+    "name": "Water Gem Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_hoe.png",
+    "path": "water_gem_hoe.png"
+  },
+  {
+    "name": "Water Gem Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_leggings.png",
+    "path": "water_gem_leggings.png"
+  },
+  {
+    "name": "Water Gem Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_pickaxe.png",
+    "path": "water_gem_pickaxe.png"
+  },
+  {
+    "name": "Water Gem Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_shovel.png",
+    "path": "water_gem_shovel.png"
+  },
+  {
+    "name": "Water Gem Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_sword.png",
+    "path": "water_gem_sword.png"
+  },
+  {
+    "name": "Water Head",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_head.png",
+    "path": "water_head.png"
+  },
+  {
+    "name": "Water Hoe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_hoe.png",
+    "path": "water_hoe.png"
+  },
+  {
+    "name": "Water Leggings",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_leggings.png",
+    "path": "water_leggings.png"
+  },
+  {
+    "name": "Water Pickaxe",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_pickaxe.png",
+    "path": "water_pickaxe.png"
+  },
+  {
+    "name": "Water Shovel",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_shovel.png",
+    "path": "water_shovel.png"
+  },
+  {
+    "name": "Water Sword",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_sword.png",
+    "path": "water_sword.png"
+  },
+  {
+    "name": "White Oak Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_boat.png",
+    "path": "white_oak_boat.png"
+  },
+  {
+    "name": "White Oak Chest Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_chest_boat.png",
+    "path": "white_oak_chest_boat.png"
+  },
+  {
+    "name": "White Oak Door Item",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_door_item.png",
+    "path": "white_oak_door_item.png"
+  },
+  {
+    "name": "White Oak Hanging Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_hanging_sign.png",
+    "path": "white_oak_hanging_sign.png"
+  },
+  {
+    "name": "White Oak Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_sign.png",
+    "path": "white_oak_sign.png"
+  }
+]
