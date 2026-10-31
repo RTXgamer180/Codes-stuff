@@ -35,6 +35,16 @@
     "path": "adite_leggings.png"
   },
   {
+    "name": "Adite Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_ore.png",
+    "path": "adite_ore.png"
+  },
+  {
+    "name": "Adite Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_ore_block.png",
+    "path": "adite_ore_block.png"
+  },
+  {
     "name": "Adite Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/adite_pickaxe.png",
     "path": "adite_pickaxe.png"
@@ -110,6 +120,16 @@
     "path": "black_gem_leggings.png"
   },
   {
+    "name": "Black Gem Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_ore.png",
+    "path": "black_gem_ore.png"
+  },
+  {
+    "name": "Black Gem Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_ore_block.png",
+    "path": "black_gem_ore_block.png"
+  },
+  {
     "name": "Black Gem Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_gem_pickaxe.png",
     "path": "black_gem_pickaxe.png"
@@ -155,9 +175,19 @@
     "path": "black_wood_chest_boat.png"
   },
   {
+    "name": "Black Wood Door Bottom",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_door_bottom.png",
+    "path": "black_wood_door_bottom.png"
+  },
+  {
     "name": "Black Wood Door Item",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_door_item.png",
     "path": "black_wood_door_item.png"
+  },
+  {
+    "name": "Black Wood Door Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_door_top.png",
+    "path": "black_wood_door_top.png"
   },
   {
     "name": "Black Wood Hanging Sign",
@@ -165,9 +195,34 @@
     "path": "black_wood_hanging_sign.png"
   },
   {
+    "name": "Black Wood Leaves",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_leaves.png",
+    "path": "black_wood_leaves.png"
+  },
+  {
+    "name": "Black Wood Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_log.png",
+    "path": "black_wood_log.png"
+  },
+  {
+    "name": "Black Wood Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_log_top.png",
+    "path": "black_wood_log_top.png"
+  },
+  {
+    "name": "Black Wood Planks",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_planks.png",
+    "path": "black_wood_planks.png"
+  },
+  {
     "name": "Black Wood Sign",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_sign.png",
     "path": "black_wood_sign.png"
+  },
+  {
+    "name": "Black Wood Trapdoor",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/black_wood_trapdoor.png",
+    "path": "black_wood_trapdoor.png"
   },
   {
     "name": "Dirt Armor Body",
@@ -245,6 +300,16 @@
     "path": "endium_leggings.png"
   },
   {
+    "name": "Endium Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_ore.png",
+    "path": "endium_ore.png"
+  },
+  {
+    "name": "Endium Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_ore_block.png",
+    "path": "endium_ore_block.png"
+  },
+  {
     "name": "Endium Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/endium_pickaxe.png",
     "path": "endium_pickaxe.png"
@@ -295,6 +360,16 @@
     "path": "fire_gem_leggings.png"
   },
   {
+    "name": "Fire Gem Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_ore.png",
+    "path": "fire_gem_ore.png"
+  },
+  {
+    "name": "Fire Gem Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_ore_block.png",
+    "path": "fire_gem_ore_block.png"
+  },
+  {
     "name": "Fire Gem Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/fire_gem_pickaxe.png",
     "path": "fire_gem_pickaxe.png"
@@ -343,6 +418,16 @@
     "name": "Greenote Leggings",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_leggings.png",
     "path": "greenote_leggings.png"
+  },
+  {
+    "name": "Greenote Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_ore.png",
+    "path": "greenote_ore.png"
+  },
+  {
+    "name": "Greenote Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/greenote_ore_block.png",
+    "path": "greenote_ore_block.png"
   },
   {
     "name": "Greenote Pickaxe",
@@ -400,6 +485,16 @@
     "path": "redote_leggings.png"
   },
   {
+    "name": "Redote Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_ore.png",
+    "path": "redote_ore.png"
+  },
+  {
+    "name": "Redote Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_ore_block.png",
+    "path": "redote_ore_block.png"
+  },
+  {
     "name": "Redote Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/redote_pickaxe.png",
     "path": "redote_pickaxe.png"
@@ -415,9 +510,39 @@
     "path": "redote_sword.png"
   },
   {
+    "name": "Stripped Black Wood Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_black_wood_log.png",
+    "path": "stripped_black_wood_log.png"
+  },
+  {
+    "name": "Stripped Black Wood Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_black_wood_log_top.png",
+    "path": "stripped_black_wood_log_top.png"
+  },
+  {
+    "name": "Stripped White Oak Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_white_oak_log.png",
+    "path": "stripped_white_oak_log.png"
+  },
+  {
+    "name": "Stripped White Oak Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_white_oak_log_top.png",
+    "path": "stripped_white_oak_log_top.png"
+  },
+  {
     "name": "Suphite Dust",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/suphite_dust.png",
     "path": "suphite_dust.png"
+  },
+  {
+    "name": "Suphite Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/suphite_ore.png",
+    "path": "suphite_ore.png"
+  },
+  {
+    "name": "Suphite Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/suphite_ore_block.png",
+    "path": "suphite_ore_block.png"
   },
   {
     "name": "Uranium Axe",
@@ -453,6 +578,16 @@
     "name": "Uranium Leggings",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_leggings.png",
     "path": "uranium_leggings.png"
+  },
+  {
+    "name": "Uranium Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_ore.png",
+    "path": "uranium_ore.png"
+  },
+  {
+    "name": "Uranium Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_ore_block.png",
+    "path": "uranium_ore_block.png"
   },
   {
     "name": "Uranium Pickaxe",
@@ -503,6 +638,16 @@
     "name": "Void Gem Leggings",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_leggings.png",
     "path": "void_gem_leggings.png"
+  },
+  {
+    "name": "Void Gem Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_ore.png",
+    "path": "void_gem_ore.png"
+  },
+  {
+    "name": "Void Gem Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/void_gem_ore_block.png",
+    "path": "void_gem_ore_block.png"
   },
   {
     "name": "Void Gem Pickaxe",
@@ -575,6 +720,16 @@
     "path": "water_gem_leggings.png"
   },
   {
+    "name": "Water Gem Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_ore.png",
+    "path": "water_gem_ore.png"
+  },
+  {
+    "name": "Water Gem Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_ore_block.png",
+    "path": "water_gem_ore_block.png"
+  },
+  {
     "name": "Water Gem Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_gem_pickaxe.png",
     "path": "water_gem_pickaxe.png"
@@ -605,6 +760,16 @@
     "path": "water_leggings.png"
   },
   {
+    "name": "Water Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_ore.png",
+    "path": "water_ore.png"
+  },
+  {
+    "name": "Water Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_ore_block.png",
+    "path": "water_ore_block.png"
+  },
+  {
     "name": "Water Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/water_pickaxe.png",
     "path": "water_pickaxe.png"
@@ -630,9 +795,19 @@
     "path": "white_oak_chest_boat.png"
   },
   {
+    "name": "White Oak Door Bottom",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_door_bottom.png",
+    "path": "white_oak_door_bottom.png"
+  },
+  {
     "name": "White Oak Door Item",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_door_item.png",
     "path": "white_oak_door_item.png"
+  },
+  {
+    "name": "White Oak Door Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_door_top.png",
+    "path": "white_oak_door_top.png"
   },
   {
     "name": "White Oak Hanging Sign",
@@ -640,8 +815,33 @@
     "path": "white_oak_hanging_sign.png"
   },
   {
+    "name": "White Oak Leaves",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_leaves.png",
+    "path": "white_oak_leaves.png"
+  },
+  {
+    "name": "White Oak Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_log.png",
+    "path": "white_oak_log.png"
+  },
+  {
+    "name": "White Oak Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_log_top.png",
+    "path": "white_oak_log_top.png"
+  },
+  {
+    "name": "White Oak Planks",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_planks.png",
+    "path": "white_oak_planks.png"
+  },
+  {
     "name": "White Oak Sign",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_sign.png",
     "path": "white_oak_sign.png"
+  },
+  {
+    "name": "White Oak Trapdoor",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/white_oak_trapdoor.png",
+    "path": "white_oak_trapdoor.png"
   }
 ]
