@@ -115,6 +115,16 @@
     "path": "banana_dust_leggings.png"
   },
   {
+    "name": "Banana Dust Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_ore.png",
+    "path": "banana_dust_ore.png"
+  },
+  {
+    "name": "Banana Dust Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_ore_block.png",
+    "path": "banana_dust_ore_block.png"
+  },
+  {
     "name": "Banana Dust Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_dust_pickaxe.png",
     "path": "banana_dust_pickaxe.png"
@@ -145,9 +155,19 @@
     "path": "banana_oak_chest_boat.png"
   },
   {
+    "name": "Banana Oak Door Bottom",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_door_bottom.png",
+    "path": "banana_oak_door_bottom.png"
+  },
+  {
     "name": "Banana Oak Door Item",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_door_item.png",
     "path": "banana_oak_door_item.png"
+  },
+  {
+    "name": "Banana Oak Door Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_door_top.png",
+    "path": "banana_oak_door_top.png"
   },
   {
     "name": "Banana Oak Hanging Sign",
@@ -155,9 +175,34 @@
     "path": "banana_oak_hanging_sign.png"
   },
   {
+    "name": "Banana Oak Leaves",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_leaves.png",
+    "path": "banana_oak_leaves.png"
+  },
+  {
+    "name": "Banana Oak Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_log.png",
+    "path": "banana_oak_log.png"
+  },
+  {
+    "name": "Banana Oak Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_log_top.png",
+    "path": "banana_oak_log_top.png"
+  },
+  {
+    "name": "Banana Oak Planks",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_planks.png",
+    "path": "banana_oak_planks.png"
+  },
+  {
     "name": "Banana Oak Sign",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_sign.png",
     "path": "banana_oak_sign.png"
+  },
+  {
+    "name": "Banana Oak Trapdoor",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/banana_oak_trapdoor.png",
+    "path": "banana_oak_trapdoor.png"
   },
   {
     "name": "Banana Suit Body",
@@ -360,6 +405,16 @@
     "path": "blood_ingot_leggings.png"
   },
   {
+    "name": "Blood Ingot Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_ore.png",
+    "path": "blood_ingot_ore.png"
+  },
+  {
+    "name": "Blood Ingot Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_ore_block.png",
+    "path": "blood_ingot_ore_block.png"
+  },
+  {
     "name": "Blood Ingot Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/blood_ingot_pickaxe.png",
     "path": "blood_ingot_pickaxe.png"
@@ -425,9 +480,19 @@
     "path": "ender_wood_chest_boat.png"
   },
   {
+    "name": "Ender Wood Door Bottom",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_door_bottom.png",
+    "path": "ender_wood_door_bottom.png"
+  },
+  {
     "name": "Ender Wood Door Item",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_door_item.png",
     "path": "ender_wood_door_item.png"
+  },
+  {
+    "name": "Ender Wood Door Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_door_top.png",
+    "path": "ender_wood_door_top.png"
   },
   {
     "name": "Ender Wood Hanging Sign",
@@ -435,9 +500,34 @@
     "path": "ender_wood_hanging_sign.png"
   },
   {
+    "name": "Ender Wood Leaves",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_leaves.png",
+    "path": "ender_wood_leaves.png"
+  },
+  {
+    "name": "Ender Wood Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_log.png",
+    "path": "ender_wood_log.png"
+  },
+  {
+    "name": "Ender Wood Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_log_top.png",
+    "path": "ender_wood_log_top.png"
+  },
+  {
+    "name": "Ender Wood Planks",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_planks.png",
+    "path": "ender_wood_planks.png"
+  },
+  {
     "name": "Ender Wood Sign",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_sign.png",
     "path": "ender_wood_sign.png"
+  },
+  {
+    "name": "Ender Wood Trapdoor",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/ender_wood_trapdoor.png",
+    "path": "ender_wood_trapdoor.png"
   },
   {
     "name": "Endium Axe",
@@ -620,9 +710,29 @@
     "path": "greenote_sword.png"
   },
   {
+    "name": "Indigo Wendigo Gem Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_ore.png",
+    "path": "indigo_wendigo_gem_ore.png"
+  },
+  {
+    "name": "Indigo Wendigo Gem Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/indigo_wendigo_gem_ore_block.png",
+    "path": "indigo_wendigo_gem_ore_block.png"
+  },
+  {
     "name": "Master Gem Item Texture",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/master_gem_item_texture.png",
     "path": "master_gem_item_texture.png"
+  },
+  {
+    "name": "Meat Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_ore.png",
+    "path": "meat_ore.png"
+  },
+  {
+    "name": "Meat Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/meat_ore_block.png",
+    "path": "meat_ore_block.png"
   },
   {
     "name": "Nithorite Axe",
@@ -658,6 +768,16 @@
     "name": "Nithorite Leggings",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_leggings.png",
     "path": "nithorite_leggings.png"
+  },
+  {
+    "name": "Nithorite Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_ore.png",
+    "path": "nithorite_ore.png"
+  },
+  {
+    "name": "Nithorite Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/nithorite_ore_block.png",
+    "path": "nithorite_ore_block.png"
   },
   {
     "name": "Nithorite Pickaxe",
@@ -770,6 +890,16 @@
     "path": "skidorite_leggings.png"
   },
   {
+    "name": "Skidorite Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_ore.png",
+    "path": "skidorite_ore.png"
+  },
+  {
+    "name": "Skidorite Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_ore_block.png",
+    "path": "skidorite_ore_block.png"
+  },
+  {
     "name": "Skidorite Pickaxe",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/skidorite_pickaxe.png",
     "path": "skidorite_pickaxe.png"
@@ -785,6 +915,16 @@
     "path": "skidorite_sword.png"
   },
   {
+    "name": "Stripped Banana Oak Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_banana_oak_log.png",
+    "path": "stripped_banana_oak_log.png"
+  },
+  {
+    "name": "Stripped Banana Oak Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_banana_oak_log_top.png",
+    "path": "stripped_banana_oak_log_top.png"
+  },
+  {
     "name": "Stripped Black Wood Log",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_black_wood_log.png",
     "path": "stripped_black_wood_log.png"
@@ -793,6 +933,16 @@
     "name": "Stripped Black Wood Log Top",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_black_wood_log_top.png",
     "path": "stripped_black_wood_log_top.png"
+  },
+  {
+    "name": "Stripped Ender Wood Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_ender_wood_log.png",
+    "path": "stripped_ender_wood_log.png"
+  },
+  {
+    "name": "Stripped Ender Wood Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_ender_wood_log_top.png",
+    "path": "stripped_ender_wood_log_top.png"
   },
   {
     "name": "Stripped White Oak Log",
@@ -853,6 +1003,16 @@
     "name": "Sylziia Leggings",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_leggings.png",
     "path": "sylziia_leggings.png"
+  },
+  {
+    "name": "Sylziia Ore",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_ore.png",
+    "path": "sylziia_ore.png"
+  },
+  {
+    "name": "Sylziia Ore Block",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/sylziia_ore_block.png",
+    "path": "sylziia_ore_block.png"
   },
   {
     "name": "Sylziia Pickaxe",
