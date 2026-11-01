@@ -1045,6 +1045,16 @@
     "path": "stripped_ender_wood_log_top.png"
   },
   {
+    "name": "Stripped Vanilla Oak Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_vanilla_oak_log.png",
+    "path": "stripped_vanilla_oak_log.png"
+  },
+  {
+    "name": "Stripped Vanilla Oak Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_vanilla_oak_log_top.png",
+    "path": "stripped_vanilla_oak_log_top.png"
+  },
+  {
     "name": "Stripped White Oak Log",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/stripped_white_oak_log.png",
     "path": "stripped_white_oak_log.png"
@@ -1188,6 +1198,66 @@
     "name": "Uranium Sword",
     "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/uranium_sword.png",
     "path": "uranium_sword.png"
+  },
+  {
+    "name": "Vanilla Oak Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_boat.png",
+    "path": "vanilla_oak_boat.png"
+  },
+  {
+    "name": "Vanilla Oak Chest Boat",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_chest_boat.png",
+    "path": "vanilla_oak_chest_boat.png"
+  },
+  {
+    "name": "Vanilla Oak Door Bottom",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_door_bottom.png",
+    "path": "vanilla_oak_door_bottom.png"
+  },
+  {
+    "name": "Vanilla Oak Door Item",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_door_item.png",
+    "path": "vanilla_oak_door_item.png"
+  },
+  {
+    "name": "Vanilla Oak Door Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_door_top.png",
+    "path": "vanilla_oak_door_top.png"
+  },
+  {
+    "name": "Vanilla Oak Hanging Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_hanging_sign.png",
+    "path": "vanilla_oak_hanging_sign.png"
+  },
+  {
+    "name": "Vanilla Oak Leaves",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_leaves.png",
+    "path": "vanilla_oak_leaves.png"
+  },
+  {
+    "name": "Vanilla Oak Log",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_log.png",
+    "path": "vanilla_oak_log.png"
+  },
+  {
+    "name": "Vanilla Oak Log Top",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_log_top.png",
+    "path": "vanilla_oak_log_top.png"
+  },
+  {
+    "name": "Vanilla Oak Planks",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_planks.png",
+    "path": "vanilla_oak_planks.png"
+  },
+  {
+    "name": "Vanilla Oak Sign",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_sign.png",
+    "path": "vanilla_oak_sign.png"
+  },
+  {
+    "name": "Vanilla Oak Trapdoor",
+    "texture": "https://raw.githubusercontent.com/RTXgamer180/Codes-stuff/main/vanilla_oak_trapdoor.png",
+    "path": "vanilla_oak_trapdoor.png"
   },
   {
     "name": "Void Gem",
